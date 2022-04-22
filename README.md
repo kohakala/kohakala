@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @kohakala. Helsinki-Hämeenlinna / Helsingfors-Tavastehus; Finland.EU
-- 👀 I’m interested in ... I am a coder by trade. I would not go so far as saying I'm super hyped about it.
-- I am invested in mathematics, physics and (medieval, reneissance and enlightenment) arts & philosophy. Not many career opportunities there though. 
-- 🌱 I’m currently learning ... Python, C, Linux/Unix systems and trying out vscode here and there. Oracle-VM & LinuxMint are gifts from heaven for a former PC gamer.
-- 💞️ I’m looking to collaborate on ... (TBD)
-- 📫 How to reach me ... email me kalle.o.hakala@gmail.com
+- 👀 I’m interested in ... I am a coder wet in the ears. I like too many things to focus and be expert in any. 
+- Currently learning Python, C, C-python, Rust, HTML-CSS-JS node.js, mern, mean, yew, Linux mint, kali, ubuntu, Windows, Android
+- 📫 How to reach me ... kalle.o.hakala@gmail.com
 
 <!---
 kohakala/kohakala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,6 +57,7 @@ Gray,
 Fehrenbach, 
 Gordon, 
 Brzezinski, 
-McMaster and Weber.
+McMaster,
+Weber.
 
-(it's a read-me pun)
+(it's a read-me list)
